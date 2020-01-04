@@ -96,7 +96,7 @@
         "size": 120
     },
     {
-        "code": "2pp",
+        "code": "two_pp",
         "cycle_code": "premium",
         "date_release": "1995-12-01",
         "name": "Premiere Two-Player Game",
@@ -112,7 +112,7 @@
         "size": 10
     },
     {
-        "code": "2pesb",
+        "code": "two_pesb",
         "cycle_code": "premium",
         "date_release": "1996-01-01",
         "name": "The Empire Strikes Back Two-Player Game",
